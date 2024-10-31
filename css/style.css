@@ -1,0 +1,95 @@
+*{
+
+    font-family: "Inter", sans-serif;
+}
+
+.call{
+    background: linear-gradient(to right, #0ECEFE, #2699FB);
+    color: white;
+}
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span{
+    color:#2699FB;
+}
+.bannerContent p{
+    font-size: 22px;
+}
+
+.bannerContent ul{
+    list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+
+.bannerContent ul li i{
+    color: #2699FB;
+}
+
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 50;
+}
+
+.bookDemo{
+    background: linear-gradient(to right, #0ECEFE, #2699FB);
+    color: white;
+}
+
+.banner-form{
+    padding: 40px;
+}
+
+.banner-form h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.banner-form button{
+    width: 100%;
+    padding: 10px 0px;
+    background: linear-gradient(to right, #0ECEFE, #2699FB);
+    color: white;
+}
+
+.counterSection h2{
+    font-size: 24px;
+    font-weight: 700;
+    color: #2699FB;
+}
+
+.highlightsSection{
+    background-color: #F7FAFF;
+}
+
+.highlightsSection h2{
+    font-size: 36px;
+    font-weight: 700;
+}
+.highlightsItems{
+    color: #000;
+}
+
+.highlightsItems h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.highlightsItems p{
+    font-size: 15px;
+}
+
+.highlightsItems i{
+    font-size: 50px;
+    color: #2699FB;
+    background-color: #F7FAFF;
+}
+
+

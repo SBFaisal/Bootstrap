@@ -1,0 +1,45 @@
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
+
+
+@media only screen and (min-width:200px) and (max-width:991px){
+    .btn-outer{
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        background: white;
+        padding: 5px opx;
+        justify-content: center !important;
+    }
+
+    .bannerContent h1{
+        font-size: 18px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 22px;
+    }
+    .bannerContent h1 br{
+        display: none;
+    }
+
+    .bannerContentBtn {
+        flex-direction: column;
+    }
+    .bannerContentBtn button{
+        width: 100%;
+    }
+    
+    .banner-form{
+        padding: 20px;
+    }
+
+    .highlightsSection h2{
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+}
