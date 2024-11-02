@@ -1,0 +1,93 @@
+body{
+    font-family: 'GT America Standard', sans-serif;
+}
+.topbar{
+    background: black;
+}
+.barlogo a{
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.barlogo a span:hover{
+    text-decoration: underline;
+}
+
+.searchsection{
+    background-color: #dadbf1;
+    padding: 115px;
+}
+
+.helpques{
+    font-size: 80px;
+}
+
+.searchbox{
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center; 
+}
+.searchbox:hover{
+    border-color: #4C5FD5;
+    outline-color: #4C5FD5;
+}
+
+.searchinput{
+    float: 1;
+    font-size: 20px;
+    width: 95%;
+    border: none;
+    outline: none;
+}
+
+.searchbtn{
+    border: none;
+    background-color: white;
+}
+.searchbtn:focus{
+    border: none;
+    outline: none;
+}
+
+
+.categorylist img{
+    max-height: 80px;
+    max-width: 70px;
+}
+
+.content{
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.content h4{
+    font-weight: 600;
+}
+.content a{
+
+    color: #4C5FD5;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.footer h3{
+    font-weight: bold;
+}
+
+.footer li{
+    list-style: none;
+}
+.footer li a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer li a:hover{
+    text-decoration: underline;
+    
+}
